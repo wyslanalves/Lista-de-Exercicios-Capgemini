@@ -24,7 +24,7 @@ public class Exercicio3 {
         totalCombustivel = sc.nextDouble();
 
         consumoMedia = distanciaPercorrida  / totalCombustivel;
-        System.out.println("O consumo Medio do automóvel é de: " + consumoMedia + "km/1");
+        System.out.println("O consumo Medio do automóvel é de: " + consumoMedia + "km/1.");
 
 
 
