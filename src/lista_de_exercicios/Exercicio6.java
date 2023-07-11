@@ -14,16 +14,16 @@ public class Exercicio6 {
     */
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Digite seu Nome: ");
+        System.out.println("Digite o Valor A: ");
         int variavelA = sc.nextInt();
 
-        System.out.println("Digite sua Nota1");
+        System.out.println("Digite o Valor B: ");
         int variavelB = sc.nextInt();
 
         int variavelAuxiliar;
 
-        System.out.println("Valor da Variavel A que foi Passado " + variavelA);
-        System.out.println("Valor da Variavel B que foi Passado " + variavelB);
+        System.out.println("Valor da Variavel A  " + variavelA);
+        System.out.println("Valor da Variavel B  " + variavelB);
 
         variavelAuxiliar = variavelA;
         variavelA = variavelB;
